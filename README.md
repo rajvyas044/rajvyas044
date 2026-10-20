@@ -31,8 +31,7 @@ hobbies: [Exploring New Tech, Problem Solving, Open Source]
 ```
 
 - 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** at **Nirma University**
-- 🔭 Working on **PacketQuest** (network protocol simulations) and **Data Center Energy Analytics**
-- 💡 Deeply interested in **Data Structures & Algorithms**, **Operating Systems**, and **Network Protocols**
+- 💡 Deeply interested in **Data analytics**,**Data Structures & Algorithms**, **Operating Systems**, and **Network Protocols**
 - 🌱 Constantly learning and expanding my development toolkit
 - 💬 Ask me about **C/C++, Java, Python, Flask, and Linux**
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/raj-vyas-b5b988270)
